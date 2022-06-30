@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
-- 📫 How to reach me **dileksekerci@yandex.com**
+- 📫 How to reach me **mail@dileksekerci.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
